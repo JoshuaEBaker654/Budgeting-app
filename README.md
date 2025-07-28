@@ -1,1 +1,1 @@
-# Budgeting-app
+This app is a personal project of mine. It is a work in progress that I will continue to work on in my spare time. The purpose of this project is to help me build my development skills while also creating something that I can use in my everyday life. 
