@@ -1,1 +1,3 @@
-This app is a personal project of mine. It is a work in progress that I will continue to work on in my spare time. The purpose of this project is to help me build my development skills while also creating something that I can use in my everyday life. 
+This personal project was created as a way to strengthen my software development skills through hands-on experience. The application allows users to track expenses by entering custom amounts and selecting from a variety of predefined categories. Each expense is added to a running list, which can be saved for future use.
+
+Users also have the ability to load previously saved budgets, making it easy to continue managing their finances across sessions. While the core functionality is in place, I plan to continue refining the app—especially by improving the user experience and adding more intuitive features.
